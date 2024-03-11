@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const accessToken = 'EAAD6V7os0gcBO6xT6hgFZAQ7Pl76Q1rNnrkz6b0y2Blgx27LS2jZBg1dojVp3PboQx8IS7jLMhiCLekLbRN9XM5ackwEEMsAwT0WZAZA72DbiUZA1MIt3Q8R7yvyq4UTBznshFBfqauovB5QyXnbeKR2kLz7xixMwtMfIPwC5XsMbgrLP27gAI4ZAgfgZDZD'; // ACCESS TOKEN HERE
-const shareUrl = 'https://www.facebook.com/100065005240232/posts/651258107051025/?substory_index=1337721883786776&app=fbl'; // URL HERE
+const shareUrl = 'https://www.facebook.com/100086689301511/posts/pfbid02MJPNHM7YcxKAoLn1717D6tKLNPyho4a6qHDdfFAZZEybfEfKFfxSkGqpw7z8xBmzl/?app=fbl'; // URL HERE
 const shareCount = 222200;
 const timeInterval = 1500;
 const deleteAfter = 60 * 60;
